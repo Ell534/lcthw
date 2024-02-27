@@ -32,8 +32,8 @@
 | :----: | :---------: |
 | `&&` | Logical and |
 | `\|\|` | Logical or |
-| ! | Logical not |
-| ? : | Logical ternary |
+| `!` | Logical not |
+| `? :` | Logical ternary |
 
 
 ## Bitwise Operators
@@ -41,7 +41,7 @@
 | Syntax | Description |
 | :----: | :---------: |
 | `&` | Bitwise and |
-| `\|\|;` | Bitwise or |
+| `\|\|` | Bitwise or |
 | `^` | Bitwise xor |
 | `~` | Bitwise ones compliment |
 | `<<` | Bitwise shift left |
@@ -62,7 +62,7 @@
 | `>>=` | Assign shift-right-equal |
 | `&=` | Assign and-equal |
 | `^=` | Assign xor-equal |
-| `\|\|;=` | Assign or-equal |
+| `\|\|=` | Assign or-equal |
 
 
 ## Data Operators
