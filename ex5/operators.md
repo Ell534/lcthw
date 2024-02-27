@@ -31,7 +31,7 @@
 | Syntax | Description |
 | :----: | :---------: |
 | `&&` | Logical and |
-| `&#124;&#124;` | Logical or |
+| `(&#124;)(&#124;)` | Logical or |
 | ! | Logical not |
 | ? : | Logical ternary |
 
